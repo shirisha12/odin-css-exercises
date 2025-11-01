@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.class-1 {
+    background-color: pink;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+.cool {
+    font-size: 36px;
+}
+
+#id-1 {
+    color: blue;
+    font-weight: 550;
+    font-size: 48px;
+}
+
+#id-2 {
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: 32px;
+}
